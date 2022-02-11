@@ -125,8 +125,9 @@ footer {
     gap: 1rem;
 }
 
-.footer_about {
-    /*   background:red; */
+hr {
+    height: 5px;
+    color: gray;
 }
 
 h3 {
@@ -139,7 +140,6 @@ h3 {
 }
 
 .footer_main {
-    /*   background:orange; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -151,12 +151,7 @@ h3 {
     line-height: 1.5;
 }
 
-.footer_right {
-    /*   background:blue; */
-}
-
 .footer_right .footer_links {
-    /*   background:gold; */
     padding: 1.2rem;
     display: flex;
     gap: 10px;
