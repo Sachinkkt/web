@@ -68,6 +68,7 @@ p {
     margin: 40px;
     padding: 50px;
     row-gap: 30px;
+    border-radius: 10px;
 }
 
 .row3 {
